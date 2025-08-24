@@ -77,9 +77,4 @@ Then open the local URL (usually [http://localhost:8501](http://localhost:8501))
 
 ---
 
----
 
-✨ This one reads more like a **portfolio project showcase** — good for **GitHub, LinkedIn, or job applications**.  
-
-Would you like me to also generate the **requirements.txt** automatically from your files so that the README and repo look complete?
-```
