@@ -21,10 +21,12 @@ This project uses **content-based filtering** to suggest songs similar to the on
 spotify\_song\_recommendation/
 │── main.py             # Streamlit app (frontend/UI)
 │── recommend.py        # Core recommendation logic
-│── df\_cleaned.pkl      # Preprocessed dataset
-│── cosine\_sim.pkl      # Precomputed similarity matrix
+│── df\_cleaned.pkl     # Preprocessed dataset
+│── cosine\_sim.pkl     # Precomputed similarity matrix
 │── recommend.log       # Log file for events/errors
 │── README.md           # Project documentation
+│── code.ipynb          # recommendation sysytem in jupyter
+│── spotify_song.csv    # csv file
 
 ````
 
