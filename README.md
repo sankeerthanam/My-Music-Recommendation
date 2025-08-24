@@ -76,6 +76,7 @@ Then open the local URL (usually [http://localhost:8501](http://localhost:8501))
 3. Instantly see your top 5 recommended tracks in a table.
 
 ---
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/6565c1f1-7e0b-4f70-bf75-66c83a5b66bc" />
+<img width="1729" height="973" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/63e2700c-83cc-4369-b8c7-be2454b770d8" />
+
 
 
